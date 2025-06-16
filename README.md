@@ -28,6 +28,7 @@ This project aims to develop and evaluate CNN-based models to accurately detect 
 
 - **Labeling**: Verified by an agronomist and cross-validated with Plantix.
 
+Dataset Link: https://drive.google.com/drive/folders/1Fzno5BlzU2ebtFqgZNKypXdfVne2CfX8?usp=sharing
 ---
 
 ## ⚙️ Models Used
